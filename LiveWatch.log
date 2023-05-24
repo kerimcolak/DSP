@@ -1,0 +1,126 @@
+Expression	Value	Location	Type	
+ADC_Datas.ADC1BUF[0]	2'604	0x2000'3cfc	uint16_t	
+[4]	[syntax error, unexpected '['] column 1, while parsing "[4]"			
+ADC_Datas	<struct>	0x2000'3cfc	ADC_Datas_Type	
+ADC1BUF	<array>	0x2000'3cfc	uint16_t[500]	
+TIM8_CNT	59	0x4001'0424	unsigned long	
+INVRxData	<array>""	0x2000'45f7	uint8_t[1]	
+INVTxData	<array>"ªUr7¾.´.´.Ç."	0x2000'45cc	uint8_t[39]	
+dataSize	Error (col 1): Cannot take address. dataSize			
+dataSize	Error (col 1): Cannot take address. dataSize			
+INVTxData[i]	Error (col 11): Unknown or ambiguous symbol. i			
+INVTxData	<array>"ªUr7¾.´.´.Ç."	0x2000'45cc	uint8_t[39]	
+INVTxData[i]	Error (col 11): Unknown or ambiguous symbol. i			
+RECTIFIER_DATA.BIT_FIELD.SECC_ENABLE	0	0x2000'45f6	unsigned int	
+RECTIFIER_DATA.BIT_FIELD.CONNECTOR_ENABLE	0	0x2000'45f6	unsigned int	
+RECTIFIER_DATA.BIT_FIELD.PARKING_ENABLE	0	0x2000'45f6	unsigned int	
+RECTIFIER_DATA.BIT_FIELD.PARITY	0	0x2000'45f6	unsigned int	
+CHADEMO_DATA	<struct>	0x2000'4664	CHADEMO_DATA_COMMON volatile	
+CHADEMO_MSG1	<struct>	0x2000'4664	CANID_H100	
+	<union>	0x2000'4664	union <Unnamed 200>	
+BYTE_ARRAY_FIELD	<array>"."	0x2000'4664	uint8_t[8]	
+BIT_FIELD	<struct>	0x2000'4664	struct <Unnamed 164>	
+RESERVED_FIELD_0_7	6	0x2000'4664	unsigned int	
+RESERVED_FIELD_8_15	0	0x2000'4664	unsigned int	
+RESERVED_FIELD_16_23	0	0x2000'4664	unsigned int	
+RESERVED_FIELD_24_31	0	0x2000'4664	unsigned int	
+MAX_BAT_VOLTAGE	435	0x2000'4664	unsigned int	
+CONSTANT_CHARGING_RATE	255	0x2000'4664	unsigned int	
+RESERVED_FIELD_56_63	0	0x2000'4664	unsigned int	
+CHADEMO_MSG2	<struct>	0x2000'466c	CANID_H101	
+	<union>	0x2000'466c	union <Unnamed 201>	
+BYTE_ARRAY_FIELD	<array>""	0x2000'466c	uint8_t[8]	
+BIT_FIELD	<struct>	0x2000'466c	struct <Unnamed 166>	
+RESERVED_FIELD_0_7	0	0x2000'466c	unsigned int	
+MAX_CHARGING_TIME_10S	255	0x2000'466c	unsigned int	
+MAX_CHARGING_TIME_1M	144	0x2000'466c	unsigned int	
+EST_CHARGING_TIME_1M	0	0x2000'466c	unsigned int	
+RESERVED_FIELD_32_39	0	0x2000'466c	unsigned int	
+RESERVED_FIELD_40_47	0	0x2000'466c	unsigned int	
+RESERVED_FIELD_48_55	0	0x2000'466c	unsigned int	
+RESERVED_FIELD_56_63	0	0x2000'466c	unsigned int	
+CHADEMO_MSG3	<struct>	0x2000'4674	CANID_H102	
+	<union>	0x2000'4674	union <Unnamed 202>	
+BYTE_ARRAY_FIELD	<array>".š.."	0x2000'4674	uint8_t[8]	
+BIT_FIELD	<struct>	0x2000'4674	struct <Unnamed 168>	
+CHARGING_SEQUENCE_NUMBER	2	0x2000'4674	unsigned int	
+TARGET_BATTERY_VOLTAGE	410	0x2000'4674	unsigned int	
+CHARGING_CURRENT_REQ	17	0x2000'4674	unsigned int	
+FAULT_BATTERY_OVER_VOLTAGE	0	0x2000'4674	unsigned int	
+FAULT_BATTERY_UNDER_VOLTAGE	0	0x2000'4674	unsigned int	
+FAULT_BATTERY_CURRENT_DEVIATION	0	0x2000'4674	unsigned int	
+FAULT_HIGH_BATTERY_TEMPATURE	0	0x2000'4674	unsigned int	
+FAULT_BATTERY_VOLTAGE_DEVIATION	0	0x2000'4674	unsigned int	
+RESERVED_FIELD_37_39	0	0x2000'4674	unsigned int	
+STATUS_CHARGING_ENABLED	1	0x2000'4674	unsigned int	
+STATUS_SHIFT_POSITION	0	0x2000'4674	unsigned int	
+STATUS_CHARGING_FAULT	0	0x2000'4674	unsigned int	
+STATUS_CONTACTOR_OPEN	0	0x2000'4674	unsigned int	
+STATUS_STOP_REQ	0	0x2000'4674	unsigned int	
+RESERVED_FIELD_45_47	4	0x2000'4674	unsigned int	
+CHARGING_RATE	186	0x2000'4674	unsigned int	
+RESERVED_FIELD_56_63	0	0x2000'4674	unsigned int	
+CHADEMO_VEHICLE_DATA	<struct>	0x2000'467c	struct <Unnamed 176>	
+CHADEMO_VEHICLE_MSG1	<struct>	0x2000'467c	CANID_H108	
+	<union>	0x2000'467c	union <Unnamed 203>	
+BYTE_ARRAY_FIELD	<array>""	0x2000'467c	uint8_t[8]	
+BIT_FIELD	<struct>	0x2000'467c	struct <Unnamed 170>	
+CONTACTOR_IDENTIFER	0	0x2000'467c	unsigned int	
+AVAILABLE_OUTPUT_VOLTAGE	435	0x2000'467c	unsigned int	
+AVAILABLE_OUTPUT_CURRENT	17	0x2000'467c	unsigned int	
+THRESHOLD_VOLTAGE	420	0x2000'467c	unsigned int	
+RESERVED_FIELD_48_55	0	0x2000'467c	unsigned int	
+RESERVED_FIELD_56_63	0	0x2000'467c	unsigned int	
+CHADEMO_VEHICLE_MSG2	<struct>	0x2000'4684	CANID_H109	
+	<union>	0x2000'4684	union <Unnamed 204>	
+BYTE_ARRAY_FIELD	<array>".x.."	0x2000'4684	uint8_t[8]	
+BIT_FIELD	<struct>	0x2000'4684	struct <Unnamed 172>	
+CHARGING_SEQUENCE_NUMBER	1	0x2000'4684	unsigned int	
+PRESENT_OUTPUT_VOLTAGE	376	0x2000'4684	unsigned int	
+PRESENT_CHARGING_CURRENT	14	0x2000'4684	unsigned int	
+RESERVED_FIELD_32_39	0	0x2000'4684	unsigned int	
+STATUS_CHARGING	1	0x2000'4684	unsigned int	
+CHARGER_FAULT	0	0x2000'4684	unsigned int	
+CHARGING_CONNECTOR_LOCK	1	0x2000'4684	unsigned int	
+BATTERY_INCOMPATIBILITY	0	0x2000'4684	unsigned int	
+CHARGING_FAULT	0	0x2000'4684	unsigned int	
+CHARGING_STOP_CONTROL	0	0x2000'4684	unsigned int	
+RESERVED_FIELD_46_47	0	0x2000'4684	unsigned int	
+REMAINING_CHARGING_TIME_10S	255	0x2000'4684	unsigned int	
+REMAINING_CHARGING_TIME_1M	255	0x2000'4684	unsigned int	
+INV_DATA	<struct>	0x2000'45f8	INV_DATA_COMMON volatile	
+	<union>	0x2000'45f8	union <Unnamed 104>	
+BYTE_ARRAY_FIELD	<array>"ªU”;½.±.±.Æ."	0x2000'45f8	uint8_t[39]	
+BIT_FIELD	<struct>	0x2000'45f8	struct <Unnamed 80>	
+RESERVED_FIELD_0_HEADER	170	0x2000'45f8	unsigned int	
+RESERVED_FIELD_1_HEADER	85	0x2000'45f8	unsigned int	
+IOUT	14'753	0x2000'45f8	unsigned int	
+SEC_VIN	1'222	0x2000'45f8	unsigned int	
+VOUT	3'761	0x2000'45f8	unsigned int	
+VRECT	3'764	0x2000'45f8	unsigned int	
+SEC_TEMP	1'478	0x2000'45f8	unsigned int	
+SEC_FAULT	0	0x2000'45f8	unsigned int	
+SECC_STATE	4	0x2000'45f8	unsigned int	
+VTRGT	410	0x2000'45f8	unsigned int	
+IREQ	16	0x2000'45f8	unsigned int	
+CHADEMO_CHCONST	255	0x2000'45f8	unsigned int	
+CHADEMO_CHRGRT	186	0x2000'45f8	unsigned int	
+CHADEMO_IREQ	17	0x2000'45f8	unsigned int	
+CHADEMO_TRGT_BAT_VOLTAGE	410	0x2000'45f8	unsigned int	
+CHADEMO_MAX_BAT_VOLTAGE	435	0x2000'45f8	unsigned int	
+SECC_CHARGING_ENABLED	0	0x2000'45f8	unsigned int	
+SECC_SHIFT_POSITION	0	0x2000'45f8	unsigned int	
+SECC_CHARGER_FAULT	0	0x2000'45f8	unsigned int	
+SECC_CONTACTOR_STATUS	1	0x2000'45f8	unsigned int	
+SECC_USER_END_SESSION	0	0x2000'45f8	unsigned int	
+SECC_NONE	0	0x2000'45f8	unsigned int	
+SECC_CHARGING	0	0x2000'45f8	unsigned int	
+SECC_READY_TO_CHARGE	1	0x2000'45f8	unsigned int	
+RECT_FIRMWARE_VERSION	40	0x2000'45f8	unsigned int	
+SECC_PROTOCOL	2	0x2000'45f8	unsigned int	
+SECC_CHARGER_RETRYS	0	0x2000'45f8	unsigned int	
+SECC_PROTOCOL_STATE	5	0x2000'45f8	unsigned int	
+SECC_HEARTBEAT	146	0x2000'45f8	unsigned int	
+CHECK_SUM	0	0x2000'45f8	unsigned int	
+RESERVED_FIELD_PADDING_32_A	4'294'967'295	0x2000'45f8	unsigned int	
+RESERVED_FIELD_PADDING_32_B	4'294'967'295	0x2000'45f8	unsigned int	

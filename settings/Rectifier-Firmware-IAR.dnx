@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<settings>
+    <StLinkDriver>
+        <stlinkserialNo>36FF6D065648343838290443</stlinkserialNo>
+        <stlinkfoundProbes />
+        <stlinkResetStyle>0</stlinkResetStyle>
+        <stlinkResetStrategy>2</stlinkResetStrategy>
+        <LeaveTargetRunning>_ 1</LeaveTargetRunning>
+        <CStepIntDis>_ 0</CStepIntDis>
+    </StLinkDriver>
+    <DebugChecksum>
+        <Checksum>1170298862</Checksum>
+    </DebugChecksum>
+    <Exceptions>
+        <StopOnUncaught>_ 0</StopOnUncaught>
+        <StopOnThrow>_ 0</StopOnThrow>
+    </Exceptions>
+    <Stack>
+        <FillEnabled>0</FillEnabled>
+        <OverflowWarningsEnabled>1</OverflowWarningsEnabled>
+        <WarningThreshold>90</WarningThreshold>
+        <SpWarningsEnabled>1</SpWarningsEnabled>
+        <WarnLogOnly>1</WarnLogOnly>
+        <UseTrigger>1</UseTrigger>
+        <TriggerName>main</TriggerName>
+        <LimitSize>0</LimitSize>
+        <ByteLimit>50</ByteLimit>
+    </Stack>
+    <CallStack>
+        <ShowArgs>0</ShowArgs>
+    </CallStack>
+    <Disassembly>
+        <MixedMode>1</MixedMode>
+        <InstrCount>0</InstrCount>
+    </Disassembly>
+    <SfrWindow>
+        <Show>1 1</Show>
+        <Sort>4 0</Sort>
+    </SfrWindow>
+    <SWOTraceHWSettings>
+        <OverrideDefaultClocks>0</OverrideDefaultClocks>
+        <CpuClock>168000000</CpuClock>
+        <ClockAutoDetect>1</ClockAutoDetect>
+        <ClockWanted>2000000</ClockWanted>
+        <JtagSpeed>2000000</JtagSpeed>
+        <Prescaler>84</Prescaler>
+        <TimeStampPrescIndex>0</TimeStampPrescIndex>
+        <TimeStampPrescData>0</TimeStampPrescData>
+        <PcSampCYCTAP>1</PcSampCYCTAP>
+        <PcSampPOSTCNT>15</PcSampPOSTCNT>
+        <PcSampIndex>0</PcSampIndex>
+        <DataLogMode>0</DataLogMode>
+        <ITMportsEnable>62</ITMportsEnable>
+        <ITMportsTermIO>0</ITMportsTermIO>
+        <ITMportsLogFile>0</ITMportsLogFile>
+        <ITMlogFile>$PROJ_DIR$\ITM.log</ITMlogFile>
+    </SWOTraceHWSettings>
+    <InterruptStripe>
+        <Title0 />
+        <Setup0>3 1 3 0 1 0 0 0 474918482776</Setup0>
+        <Title1>DMA2_Stream0</Title1>
+        <Setup1>3 1 3 0 1 0 0 0 140732984891511</Setup1>
+        <Title2>TIM7</Title2>
+        <Setup2>3 1 3 0 1 0 0 0 474918477752</Setup2>
+        <Title3>USART1</Title3>
+        <Setup3>3 1 3 0 1 0 0 0 140732984891511</Setup3>
+        <Title4>TIM1_UP_TIM10</Title4>
+        <Setup4>3 1 3 0 1 0 0 0 140732984891511</Setup4>
+        <Title5>RTC_WKUP</Title5>
+        <Setup5>3 1 3 0 1 0 0 0 140732984891511</Setup5>
+        <Title6>SysTick</Title6>
+        <Setup6>3 1 3 0 1 0 0 0 140732984891511</Setup6>
+        <Title7>PendSV</Title7>
+        <Setup7>3 1 3 0 1 0 0 0 140732984891511</Setup7>
+        <Title8>MemManage</Title8>
+        <Setup8>3 1 3 0 1 0 0 3 140732984964039</Setup8>
+        <Title9>DMA2_Stream6</Title9>
+        <Setup9>3 1 3 0 1 0 0 3 140732984964039</Setup9>
+        <Title10>CAN2_RX1</Title10>
+        <Setup10>3 1 3 0 1 0 0 2580791759944 140732942835617</Setup10>
+        <Title11>ETH_WKUP</Title11>
+        <Setup11>3 1 3 0 1 0 0 0 474918477752</Setup11>
+        <Title12>FSMC</Title12>
+        <Setup12>3 1 3 0 1 0 0 0 474918477752</Setup12>
+        <Title13>RTC_Alarm</Title13>
+        <Setup13>3 1 3 0 1 0 0 0 474918477752</Setup13>
+        <Title14>DMA1_Stream2</Title14>
+        <Setup14>3 1 3 0 1 0 0 2580791759704 140732942835617</Setup14>
+        <Title15>TIM6_DAC</Title15>
+        <Setup15>3 1 3 0 1 0 0 3 140732984964039</Setup15>
+        <Sort>1</Sort>
+    </InterruptStripe>
+    <DataStripe>
+        <Title0>INV_DATA</Title0>
+        <Setup0>0 2 0 0 1 1 0 0 4294967295</Setup0>
+    </DataStripe>
+    <EventStripe>
+        <Title0>ITM4</Title0>
+        <Setup0>1 1 3 1 1 0 0 0 0</Setup0>
+        <Title1>ITM3</Title1>
+        <Setup1>1 1 3 1 1 0 0 0 0</Setup1>
+        <Title2>ITM2</Title2>
+        <Setup2>1 1 3 1 1 0 0 0 0</Setup2>
+        <Title3>ITM1</Title3>
+        <Setup3>1 1 3 1 1 0 0 0 0</Setup3>
+    </EventStripe>
+    <Registers>
+        <regBase0>TIM8_ARR 10</regBase0>
+        <regBase1>TIM8_CNT 10</regBase1>
+    </Registers>
+    <PlDriver>
+        <FirstRun>0</FirstRun>
+        <MemConfigValue>D:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\CONFIG\debugger\ST\STM32F407VG.ddf</MemConfigValue>
+    </PlDriver>
+    <ArmDriver>
+        <EnableCache>0</EnableCache>
+        <EnforceMemoryConfiguration>1</EnforceMemoryConfiguration>
+    </ArmDriver>
+    <Trace1>
+        <Enabled>0</Enabled>
+        <ShowSource>1</ShowSource>
+    </Trace1>
+    <struct_types>
+        <Fmt0>CAN_HandleTypeDef-ErrorCode	4	0</Fmt0>
+        <Fmt1>CAN_TypeDef-ESR	4	0</Fmt1>
+        <Fmt2>CAN_TypeDef-TSR	4	0</Fmt2>
+        <Fmt3>COMMON_CONTROL-INTERRUPT_ERROR_COUNT	3	0</Fmt3>
+        <Fmt4>UART_HandleTypeDef-gState	1	0</Fmt4>
+    </struct_types>
+    <watch_formats>
+        <Fmt0>{W}42:CHADEMO_DATA.CHADEMO_MSG1.BIT_FIELD.CONSTANT_CHARGING_RATE	3	0</Fmt0>
+        <Fmt1>{W}42:COMMON_CTRL.CONSTANT_TIMELOOP_10	3	0</Fmt1>
+        <Fmt2>{W}42:TIM8_CNT	3	0</Fmt2>
+    </watch_formats>
+    <Trace2>
+        <Enabled>1</Enabled>
+        <ShowSource>0</ShowSource>
+    </Trace2>
+    <SWOTraceWindow>
+        <PcSampling>0</PcSampling>
+        <InterruptLogs>0</InterruptLogs>
+        <ForcedTimeStamps>0</ForcedTimeStamps>
+        <EventCPI>0</EventCPI>
+        <EventEXC>0</EventEXC>
+        <EventFOLD>0</EventFOLD>
+        <EventLSU>0</EventLSU>
+        <EventSLEEP>0</EventSLEEP>
+    </SWOTraceWindow>
+    <DataLog>
+        <GraphEnabled>1</GraphEnabled>
+        <LogEnabled>1</LogEnabled>
+        <ShowTimeLog>1</ShowTimeLog>
+        <Title_0>INV_DATA</Title_0>
+        <Symbol_0>0 4 1</Symbol_0>
+        <SumEnabled>0</SumEnabled>
+        <ShowTimeSum>1</ShowTimeSum>
+    </DataLog>
+    <InterruptLog>
+        <GraphEnabled>0</GraphEnabled>
+        <LogEnabled>1</LogEnabled>
+        <ShowTimeLog>1</ShowTimeLog>
+        <SumEnabled>0</SumEnabled>
+        <ShowTimeSum>1</ShowTimeSum>
+        <SumSortOrder>0</SumSortOrder>
+    </InterruptLog>
+    <EventLog>
+        <GraphEnabled>1</GraphEnabled>
+        <LogEnabled>1</LogEnabled>
+        <ShowTimeLog>1</ShowTimeLog>
+        <Title_0>Ch3</Title_0>
+        <Symbol_0>0 0 1</Symbol_0>
+        <Title_1>Ch2</Title_1>
+        <Symbol_1>0 0 1</Symbol_1>
+        <Title_2>Ch1</Title_2>
+        <Symbol_2>0 0 1</Symbol_2>
+        <Title_3>Ch0</Title_3>
+        <Symbol_3>0 0 1</Symbol_3>
+        <SumEnabled>0</SumEnabled>
+        <ShowTimeSum>1</ShowTimeSum>
+        <SumSortOrder>0</SumSortOrder>
+    </EventLog>
+    <TermIOLog>
+        <LoggingEnabled>_ 1</LoggingEnabled>
+        <LogFile>_ "$PROJ_DIR$\TermIO.log"</LogFile>
+    </TermIOLog>
+    <DriverProfiling>
+        <Enabled>0</Enabled>
+        <Mode>3</Mode>
+        <Graph>0</Graph>
+        <Symbiont>0</Symbiont>
+        <Exclusions />
+    </DriverProfiling>
+    <CallStackLog>
+        <Enabled>0</Enabled>
+    </CallStackLog>
+    <CallStackStripe>
+        <ShowTiming>1</ShowTiming>
+    </CallStackStripe>
+    <LogFile>
+        <LoggingEnabled>_ 1</LoggingEnabled>
+        <LogFile>_ "$PROJ_DIR$\LogFile1.log"</LogFile>
+        <Category2>_ 0</Category2>
+    </LogFile>
+    <DisassembleMode>
+        <mode>0</mode>
+    </DisassembleMode>
+    <Breakpoints2>
+        <Count>0</Count>
+    </Breakpoints2>
+    <Aliases>
+        <Count>0</Count>
+        <SuppressDialog>0</SuppressDialog>
+    </Aliases>
+</settings>

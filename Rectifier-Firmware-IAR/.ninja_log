@@ -1,0 +1,233 @@
+# ninja log v5
+2	31	6679519657957185	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/EWARM/startup_stm32f407xx.o	7973d4b54911c0e5
+5329	5787	6679521678554312	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/ChargingProcess.o	6afc13bc42b2dced
+5408	5799	6679521678554312	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/can.o	900bd56d93c8ce2d
+6131	6267	6468638208765366	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/List/Rectifier-Firmware-IAR.map	9d93f59683e34d7c
+4918	5396	6679521674589881	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/freertos.o	8083932c692545d1
+4719	5085	6679521671527214	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/queue.o	69e35a87ec142488
+5011	5439	6679521675040001	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/gpio.o	3fcc9fafbb54962a
+9	407	6679521624546207	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/main.o	179174c3f37763e6
+387	685	6679521627491720	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/PwrPackHandle.o	976c084f6d9c6d63
+849	1186	6679521632533608	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/tim.o	5858dc378f3ac74e
+4748	4906	6679521669626581	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/port.o	609b40ddfd3dd9c6
+2570	3001	6679521650507021	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.o	fe186d19def4f741
+5451	5740	6679521678044260	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/dma.o	173d032edd710ecc
+2186	2645	6679521646883711	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.o	d1b9d26848b626b8
+19	377	6679521624236355	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/rtc.o	f5d21fe03be6bab
+1128	1719	6679521637491477	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc_ex.o	9f6fb9077dc70cab
+418	736	6679521628034210	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/stm32f4xx_hal_msp.o	6036566338aca8dd
+352	837	6679521628826987	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/INVHandle.o	de2bd7a85b600eb4
+698	1067	6679521631303499	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/stm32f4xx_it.o	c92660998169f4b4
+2617	3825	6679521658803740	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c.o	b30ae282576b6978
+765	1117	6679521631830042	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/stm32f4xx_hal_timebase_tim.o	c9df0e5bf0caf8e2
+747	1239	6679521632943168	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/SECCHandle.o	c1978a806d8cb7e
+2660	2981	6679521650453965	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c_ex.o	eb978324d886c477
+4890	5319	6679521673851650	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/adc.o	17c2104a76eb647d
+3425	3974	6679521660398407	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc_ex.o	a1e2ac84d015d574
+3469	4465	6679521665078737	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.o	3be9d0b5e1609f2b
+1078	1549	6679521636140342	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/utils.o	8aee1b84ece37573
+13	753	6679521628021651	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/logic.o	830eeac36f97d9b7
+4433	4738	6679521667909565	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/cmsis_os.o	d4324957e88af5dd
+3	341	6679521623971126	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/usart.o	68bd70251c2c6d9e
+4087	4614	6679521666790574	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.o	7890384fe0fc8bc2
+1197	1600	6679521636568829	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/CMSIS/system_stm32f4xx.o	2293f60ed8ed5c26
+1994	2010	6679519677757702	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/portasm.o	f755933c11d0bd36
+1250	1663	6679521637267796	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.o	fb0e871d36e8abe2
+1562	2046	6679521641098948	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc.o	fafc8b5863905363
+5095	5487	6679521675460975	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/i2c.o	376d8c176fd3252f
+2055	2557	6679521646161193	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.o	50799055066e814c
+2170	2606	6679521646707699	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.o	5658f25169e3be7d
+1730	2082	6679521641405527	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.o	7cd12c1d583af9da
+4476	4708	6679521667698028	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/stream_buffer.o	b77ec2c4d5ec6df5
+4776	4880	6679521669531899	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/list.o	5f017571cb747583
+1611	2175	6679521642264064	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.o	f4475b7d3fda3613
+2096	2514	6679521645816698	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.o	a7059fe63e487d0a
+1675	2158	6679521642209988	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.o	48094a250262737d
+2523	2907	6679521649705071	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.o	da1fa21d14a49dbd
+2917	3254	6679521653236053	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.o	cb4c1d1461f8a0e4
+3265	3607	6679521656696510	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.o	81e919323085c0f7
+3617	4077	6679521661439293	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.o	820e06e9555f998b
+4625	4765	6679521668321894	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/timers.o	8adac88776f32b2a
+3013	3412	6679521654771367	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.o	4789f91028f75701
+2995	3459	6679521655245556	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc.o	e5f299f87ca8a3d7
+5811	6000	6679521680494521	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Exe/Rectifier-Firmware-IAR.out	f8dcb0fafac70b74
+3985	4150	6679521662182318	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/heap_4.o	ac834ef66f2b4c85
+4160	4258	6679521663330567	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/croutine.o	276290925f61fd25
+3834	4513	6679521665795118	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.o	fe5c08611403d88a
+4267	4421	6679521664854823	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/event_groups.o	ca1004e122fbf8c6
+4524	5000	6679521670696679	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/tasks.o	86c0be67541ec32b
+6051	6070	6679521681499343	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Exe/Rectifier-Firmware-IAR.hex	b9b60ebe7e669282
+3	43	6679571930582244	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/EWARM/startup_stm32f407xx.o	7973d4b54911c0e5
+14	295	6679571932989971	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/PwrPackHandle.o	976c084f6d9c6d63
+9	366	6679571933650077	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/main.o	179174c3f37763e6
+46	413	6679571934140504	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/INVHandle.o	de2bd7a85b600eb4
+306	591	6679571935927122	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/rtc.o	f5d21fe03be6bab
+12	655	6679571936559776	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/logic.o	830eeac36f97d9b7
+377	688	6679571936791435	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/usart.o	68bd70251c2c6d9e
+424	722	6679571937167080	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/stm32f4xx_hal_timebase_tim.o	c9df0e5bf0caf8e2
+666	971	6679571939726455	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/tim.o	5858dc378f3ac74e
+700	1001	6679571939930578	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/stm32f4xx_hal_msp.o	6036566338aca8dd
+733	1061	6679571940616434	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/stm32f4xx_it.o	c92660998169f4b4
+602	1074	6679571940601435	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/SECCHandle.o	c1978a806d8cb7e
+1070	1393	6679571943930511	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.o	fb0e871d36e8abe2
+1013	1430	6679571944168975	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/utils.o	8aee1b84ece37573
+981	1465	6679571944491832	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc.o	fafc8b5863905363
+1084	1538	6679571945325489	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc_ex.o	9f6fb9077dc70cab
+1404	1753	6679571947558989	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/CMSIS/system_stm32f4xx.o	2293f60ed8ed5c26
+1440	1819	6679571948218197	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.o	5658f25169e3be7d
+1549	1854	6679571948466309	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.o	a7059fe63e487d0a
+1479	1964	6679571949661117	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.o	f4475b7d3fda3613
+1830	2212	6679571952141217	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.o	50799055066e814c
+1866	2226	6679571952149821	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.o	7cd12c1d583af9da
+1764	2257	6679571952335887	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.o	48094a250262737d
+1974	2296	6679571952958252	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.o	da1fa21d14a49dbd
+2222	2525	6679571955287621	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.o	cb4c1d1461f8a0e4
+2236	2598	6679571956015071	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.o	fe186d19def4f741
+2267	2630	6679571956152029	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.o	d1b9d26848b626b8
+2536	2788	6679571957929207	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c_ex.o	eb978324d886c477
+2608	2922	6679571959252979	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.o	820e06e9555f998b
+2641	3055	6679571960583646	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc.o	e5f299f87ca8a3d7
+2931	3176	6679571961796938	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.o	81e919323085c0f7
+2306	3325	6679571963207341	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c.o	b30ae282576b6978
+3066	3457	6679571964524955	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc_ex.o	a1e2ac84d015d574
+3469	3556	6679571965644291	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/croutine.o	276290925f61fd25
+3187	3600	6679571965981679	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.o	4789f91028f75701
+3336	3614	6679571966017448	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/cmsis_os.o	d4324957e88af5dd
+2798	3628	6679571965937536	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.o	3be9d0b5e1609f2b
+3623	3752	6679571967525559	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/heap_4.o	ac834ef66f2b4c85
+3610	3777	6679571967703735	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/event_groups.o	ca1004e122fbf8c6
+3761	3854	6679571968634398	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/list.o	5f017571cb747583
+3786	3887	6679571968854342	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/timers.o	8adac88776f32b2a
+3566	4069	6679571970651931	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.o	7890384fe0fc8bc2
+3896	4156	6679571971620876	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/queue.o	69e35a87ec142488
+3638	4171	6679571971563427	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.o	fe5c08611403d88a
+4182	4204	6679571972207590	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/portasm.o	f755933c11d0bd36
+3864	4267	6679571972683549	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/tasks.o	86c0be67541ec32b
+4080	4303	6679571973063442	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/stream_buffer.o	b77ec2c4d5ec6df5
+4166	4318	6679571973110473	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/port.o	609b40ddfd3dd9c6
+4209	4571	6679571975666486	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/adc.o	17c2104a76eb647d
+4313	4594	6679571975827915	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/i2c.o	376d8c176fd3252f
+4328	4606	6679571975884532	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/gpio.o	3fcc9fafbb54962a
+4276	4659	6679571976606271	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/can.o	900bd56d93c8ce2d
+4616	4866	6679571978709824	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/dma.o	173d032edd710ecc
+4602	4927	6679571979269590	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/freertos.o	8083932c692545d1
+4579	4965	6679571979703211	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/ChargingProcess.o	6afc13bc42b2dced
+4972	5107	6679571981030914	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Exe/Rectifier-Firmware-IAR.out	f8dcb0fafac70b74
+5147	5163	6679571981793974	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Exe/Rectifier-Firmware-IAR.hex	b9b60ebe7e669282
+2	21	6679572551724750	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Exe/Rectifier-Firmware-IAR.hex	b9b60ebe7e669282
+3	226	6679575962677546	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/freertos.o	8083932c692545d1
+236	370	6679575964103177	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Exe/Rectifier-Firmware-IAR.out	f8dcb0fafac70b74
+411	426	6679575964793730	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Exe/Rectifier-Firmware-IAR.hex	b9b60ebe7e669282
+2	230	6679577207987881	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/freertos.o	8083932c692545d1
+240	378	6679577209485499	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Exe/Rectifier-Firmware-IAR.out	f8dcb0fafac70b74
+416	432	6679577210186005	C:/Users/KunalKamle/OneDrive - HEVO Inc/HEVO/Firmware/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Exe/Rectifier-Firmware-IAR.hex	b9b60ebe7e669282
+1	216	6680264137171879	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/EWARM/startup_stm32f407xx.o	fc85c091889abb99
+191	660	6680264141454107	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/i2c.o	fcbeb491ed684849
+193	678	6680264141461278	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/gpio.o	ac1bcbc38b07aeb1
+196	735	6680264142211588	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/rtc.o	d42b778c98b37424
+183	803	6680264142888706	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/dma.o	7f3c2ce63fb19ca2
+188	845	6680264143074143	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/ChargingProcess.o	96e803c26019e078
+223	878	6680264143484549	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/PwrPackHandle.o	9fe602663951a05
+194	967	6680264144546743	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/freertos.o	525aead035da7d66
+674	1093	6680264145819059	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/INVHandle.o	31561bf581ffcc9f
+695	1132	6680264146112114	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/main.o	e138c6f2931f6d39
+823	1152	6680264146212560	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/stm32f4xx_hal_msp.o	15fbd2cd5cf8d592
+757	1192	6680264146422109	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/stm32f4xx_it.o	fc4e61ee8852ca6d
+859	1212	6680264146442677	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/tim.o	725b1cf6ad1bbe49
+989	1349	6680264148363092	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/stm32f4xx_hal_timebase_tim.o	e6b0afe9ddd359d6
+198	1385	6680264148437255	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/logic.o	6551f5ddccf53c00
+899	1420	6680264148990132	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/SECCHandle.o	8638d05c2080930a
+1208	1581	6680264150698263	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.o	ed5b5f6b54cd5f2d
+1226	1620	6680264150899282	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/usart.o	f72e69644163ed3a
+1598	1640	6680264151293804	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/portasm.o	48297e0829185a11
+1172	1669	6680264151289443	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/utils.o	d8aca23414472ceb
+1109	1689	6680264151260078	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc_ex.o	b81fc450bd0535c9
+1367	1724	6680264152089077	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/CMSIS/system_stm32f4xx.o	1c32ff57a48143cd
+1148	1742	6680264151791559	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc.o	b732e91b28f5a1ff
+1401	1811	6680264152982232	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/adc.o	b9393a05db8b59f
+1447	1951	6680264154359895	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/can.o	65d8c6ee63a57e10
+1647	2116	6680264156034266	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.o	62942e323b6276d
+1638	2156	6680264156270732	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.o	62e3b66b9d467641
+1766	2178	6680264156329686	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.o	48e0514addb4d699
+1828	2218	6680264156901668	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.o	df20b16fe52d0c29
+1738	2238	6680264156901668	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.o	7e43e1cd5713558
+1685	2256	6680264157105204	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.o	37251e9350a4aa4b
+1704	2293	6680264157396065	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.o	f6e394cde16d6fa5
+1975	2383	6680264158716977	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c_ex.o	da8567db03f9e9c2
+2133	2546	6680264160343102	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.o	2c51c5a6fb3fdf37
+2270	2591	6680264160743100	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.o	8f03d6cef15afcf2
+2172	2613	6680264160638047	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.o	71fae56638232417
+2253	2657	6680264161226900	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.o	736dfbbce80411ab
+2195	2677	6680264161283847	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.o	aaf93dc7ad086ea7
+2635	2825	6680264163177741	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/event_groups.o	25378edfb856896b
+2310	2871	6680264163282062	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.o	10e4bbfaa0f7e990
+2403	2961	6680264164453595	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc.o	29294efef27cd656
+2887	3030	6680264165248735	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/croutine.o	d694b0e71ee649b5
+2978	3123	6680264166167970	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/list.o	cd839cbff8fe1762
+2844	3158	6680264166470745	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/cmsis_os.o	9de80398af236546
+2564	3199	6680264166776850	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc_ex.o	1b35999d9f8c2b20
+3055	3232	6680264167179782	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/port.o	9175bfc99c2901a0
+2694	3259	6680264167046350	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.o	ffa5d30245375091
+3253	3367	6680264168621165	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/timers.o	c5cf300cbe417cac
+3174	3401	6680264168702091	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/heap_4.o	df52359e2ca20cb1
+2673	3419	6680264168789961	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.o	5375be5962323282
+2235	3477	6680264169595199	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c.o	10d5b0cf68415127
+3275	3519	6680264170135452	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/stream_buffer.o	d3dd272f54dc5d31
+3139	3549	6680264170225964	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/queue.o	65d10a5472f73484
+2608	3622	6680264171038684	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.o	7128ba4a74acbc9d
+3217	3676	6680264171684954	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/tasks.o	9065d6dcae55e4b2
+20	288	6680264714426471	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/PwrPackHandle.o	7999178dc00938c8
+5	317	6680264714568154	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/dma.o	a327be3c21eefe88
+10	335	6680264714725750	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/i2c.o	9be77f8229a74ef4
+9	359	6680264714820552	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/gpio.o	88ee35405602ae09
+2	392	6680264715314604	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/freertos.o	71afadffc580448b
+22	455	6680264716123488	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/INVHandle.o	26ea87607c2c3a4d
+13	587	6680264717390481	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/ChargingProcess.o	98a21a76b155292b
+355	677	6680264718345221	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/stm32f4xx_hal_timebase_tim.o	4bd9168930b755e8
+331	711	6680264718532775	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/rtc.o	9314137e6eaa631b
+373	748	6680264718902198	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/stm32f4xx_it.o	88a050828ea0b7e3
+301	766	6680264719094147	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/main.o	711e4b0b38234ad4
+406	801	6680264719269792	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/tim.o	d7fc803934c81a4e
+609	926	6680264720863724	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/stm32f4xx_hal_msp.o	c8ecf99c95c9588b
+692	1063	6680264722185817	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/CMSIS/system_stm32f4xx.o	8c38f52c80853c8f
+726	1129	6680264722866145	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.o	71ee50d868c25e36
+779	1148	6680264722881788	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/usart.o	f2a75af00b1db020
+762	1230	6680264723886258	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/utils.o	6e2f1d2552662e1
+16	1355	6680264725031385	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/logic.o	8747af2d97511233
+471	1379	6680264725186462	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/SECCHandle.o	46de6e5c376868a6
+1079	1489	6680264726388921	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/adc.o	445ab16b5861d603
+1144	1628	6680264727689196	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Application/User/Core/can.o	dfcd5ff42cc2c439
+939	1653	6680264727866165	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc_ex.o	cddc843105b28b97
+814	1689	6680264728105011	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc.o	fcee0fe84c53623
+1166	1709	6680264728407059	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.o	86c50a6ff2b5830e
+1395	1848	6680264730054867	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.o	39c94ce0cea21ddc
+1669	1958	6680264731183708	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.o	b58f9273c43dfd96
+1247	2035	6680264731894312	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.o	8ff73bde3f9db04b
+1374	2065	6680264732020823	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.o	6fe44390a7ad8151
+1643	2091	6680264732069049	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.o	57234450518dadf1
+1725	2163	6680264733205456	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.o	d7c3567d64565dc3
+1513	2203	6680264733449321	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.o	6467fac0085194a7
+1975	2324	6680264734827331	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c_ex.o	9b3d2189e835694d
+1864	2367	6680264735059946	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.o	270c6581b0f8537c
+2087	2408	6680264735674964	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.o	2a3fb329380c05d4
+2050	2438	6680264735776366	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.o	913f504f22c77611
+2105	2541	6680264736980721	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.o	692d12cda70dd5da
+2342	2997	6680264741502824	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.o	6f0be878af369b82
+2225	3044	6680264742001186	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc_ex.o	2c00755e38cca90c
+2181	3066	6680264741704595	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rtc.o	63fcd77aa3821fb0
+2556	3099	6680264742186067	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/cmsis_os.o	33dbbebe5d979e75
+3059	3164	6680264743308756	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/croutine.o	a6b4018e4d0c2563
+2386	3216	6680264743732932	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.o	8917f6c7660ff69
+3114	3298	6680264744543193	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/port.o	e5c7b98e65ed5c19
+3019	3328	6680264744890523	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/event_groups.o	f78924b87f8f56a0
+3231	3358	6680264745030929	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/timers.o	c44bdce1a13f3247
+3346	3450	6680264746149905	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/list.o	8833181265d54853
+3081	3520	6680264746801156	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/stream_buffer.o	48b8d0d338828ed7
+2423	3550	6680264746892478	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.o	29e6f2f2a5555262
+3374	3575	6680264747322815	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/heap_4.o	8ab018e04c9f9e7e
+3181	3885	6680264750454393	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/queue.o	a672f260956c2818
+3314	4103	6680264752673147	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Middlewares/FreeRTOS/tasks.o	dd268c31e7c34faa
+2454	4199	6680264753586809	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.o	dd7c9404069a2463
+1705	4512	6680264756670944	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c.o	5af4045c587bf2f0
+4524	4667	6680264758200083	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Exe/Rectifier-Firmware-IAR.out	c048b349eac1d5b3
+4720	4788	6680264759623592	C:/Users/kerim/Downloads/Rectifier-Firmware-IAR/Rectifier-Firmware-IAR/EWARM/Rectifier-Firmware-IAR/Exe/Rectifier-Firmware-IAR.hex	b0b293ff0a6244ad
